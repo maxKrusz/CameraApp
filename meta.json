@@ -8,21 +8,38 @@
                 }
             },
             "assets": {
-                "6508bf5e2ff5317ece165b72": {
+                "6508c3022ff53117841661cc": {
                     "externalStorageType": "GCS",
-                    "_id": "6508bf5e2ff5317ece165b72",
+                    "_id": "6508c3022ff53117841661cc",
                     "size": "53612",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/6508bd3b6c318181b9177b4b/getasset/6508bf5e2ff5317ece165b72",
+                    "backendURI": "/project/6508c3022ff53173e11661ca/getasset/6508c3022ff53117841661cc",
                     "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/64f9cfef7a354da795a9ebb4/projects/6508bd3b6c318181b9177b4b/assets/6508bf5e2ff5317ece165b72",
+                    "externalName": "users/64f9cfef7a354da795a9ebb4/projects/6508c3022ff53173e11661ca/assets/6508c3022ff53117841661cc",
                     "createdAt": "2023-09-18T21:21:34.966Z",
                     "updatedAt": "2023-09-18T21:21:34.966Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfef7a354da795a9ebb4/projects/6508bd3b6c318181b9177b4b/assets/6508bf5e2ff5317ece165b72?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T212134Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5641acc8ab2eb7d4eee14f3ce4e208f169219edbfeed6d86b884e448251e8a7e464b8e8ccc2617823d6b156ce899df8e9eca3a2e63fb2d06b2c9a4c234c25e6a1144a177b6a4f5d49b67a568861ec7a4db399c6708ac9ef140526cde6ec96e75c7804990b5cfd3188af0f9f183ee616c78343cd153c0a3a2cb99a66f4190961e9a055462f8e17a58b2c60e3f9c7bf3a02486290599287158f4446812f19404172c140a38bbc3ad890c576c30be4ae7d97d4783dbf9ff7bbc27f0bb9b95ecd12711a65fd5e3dfe0801e8c9c72b4a004249dc3dd9a0a9553f65a936b32485f8ac7384a81740305a303cc5b7ce1d8fcdaf17c89346389292b945591205341913d26",
-                    "signedUrlExpirationTime": 1695244894999
+                    "id": "6508c3022ff53117841661cc",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfef7a354da795a9ebb4/projects/6508c3022ff53173e11661ca/assets/6508c3022ff53117841661cc?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T213726Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4dec40b9cea63e1cdc3a72e13300b9c33172c03c18e04e66eacd9913d18c5792f5b769949cd09cee421f587a4254bd9fef87db6010420acfd0cefd29eb6b0b57c55189e3f9a6830251f597555d57852619bfbdbd9a160c10e23bc8e8276e49c70d4a53f6104a8e6b98a03c30aed7bae7021d8a99aada112a55e6bc1ef60d71649a9ecac76fca7a2524a06b9ed461fe277fb59f74f8479d1b5a064ed1941307a3ccb7d25ec9fafa546cc2781087afa98e58d70302b4b048c9db72819655f1f1df9d955a6bf8f14a1b085f557434800f7d8ebea8e0c8ff0a2f6ca7ca2cb0a453eef65179f2d67be22149596d1f9b888cc8778f54b308654772fc33839d5de33ac6",
+                    "signedUrlExpirationTime": 1695245846207
+                },
+                "6508c31d2ff531e3f21661fe": {
+                    "externalStorageType": "GCS",
+                    "_id": "6508c31d2ff531e3f21661fe",
+                    "size": "49258",
+                    "mimetype": "audio/mpeg",
+                    "encoding": "7bit",
+                    "originalname": "Picture Taken.mp3",
+                    "backendURI": "/project/6508c3022ff53173e11661ca/getasset/6508c31d2ff531e3f21661fe",
+                    "name": "Picture Taken.mp3",
+                    "externalName": "users/64f9cfef7a354da795a9ebb4/projects/6508c3022ff53173e11661ca/assets/6508c31d2ff531e3f21661fe",
+                    "createdAt": "2023-09-18T21:37:33.884Z",
+                    "updatedAt": "2023-09-18T21:37:33.884Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfef7a354da795a9ebb4/projects/6508c3022ff53173e11661ca/assets/6508c31d2ff531e3f21661fe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T213733Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9b8446456aed33c54e3b0f5e08fd19a36a3fc81ade4aa5bc07d77eed9ed4ba02c0fa811ebcaa9589f921648d37e51587e2ce36160fa1a1937c981eb18b5d51cb502386d180bd331ac86fbb2210ed5301619ac494ef8c2528f0d482a8567505bae93df3abb1e036ab219c954b7c59f56f8b48022b73900d36e947ca2fbaf929e3740eaa980dd1b690b27e4cb21d30af05df71a2478f47227290ac00daf8e6cf04b74f9118b7a73a7c4d75fc9aac5d4058d07ec76f30ce5f6031d437a5f7f3d7afdf35a9c750afcbdb53509573d59fea5f49090dfc5ae46f19849f7758cdd5a20b690e08f92074b9fb2705ed26d1441a6ca7fd39e12c228460a15f56eccb1ddc4c",
+                    "signedUrlExpirationTime": 1695245853917
                 }
             },
             "backendUpgradeVersion": 21,
@@ -35,14 +52,14 @@
                         ],
                         "ios": [
                             {
-                                "name": "NSCameraUsageDescription",
-                                "label": "Camera",
-                                "hint": "Describe why your app uses the camera."
-                            },
-                            {
                                 "name": "NSPhotoLibraryUsageDescription",
                                 "label": "Photos",
                                 "hint": "Describe why your app uses photos."
+                            },
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
                             }
                         ]
                     }
@@ -81,7 +98,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App Initial",
+            "projectName": "Switch",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -115,7 +132,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +181,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
