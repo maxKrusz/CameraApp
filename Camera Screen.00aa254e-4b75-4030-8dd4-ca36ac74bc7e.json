@@ -38,22 +38,111 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "OFF / ON",
+                "FontSize": 14,
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(0, 0, 0, 1)",
+                "Height": 47,
+                "Width": 92,
+                "Visible": true,
+                "X": 7,
+                "Y": 167,
+                "RelativeX": 7,
+                "RelativeY": 167,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontSize": 14,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "0%",
+                    "top": "21.167541229385307%",
+                    "lineHeight": 1,
+                    "display": "flex"
+                },
+                "ParentId": "00aa254e-4b75-4030-8dd4-ca36ac74bc7e",
+                "position": "absolute",
+                "edgeOffsets": 167,
+                "children": "OFF / ON"
+            },
+            "children": [],
+            "id": "9822ae9d-17fc-4f73-a965-1c6e1b36028f",
+            "thunkableVersion": 421,
+            "name": "Label2"
+        },
+        {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": true,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 23,
+                "Width": 46,
+                "X": 14,
+                "Y": 140,
+                "RelativeX": 14,
+                "RelativeY": 140,
+                "ResizeMode": "STRETCH",
+                "ParentId": "00aa254e-4b75-4030-8dd4-ca36ac74bc7e",
+                "position": "absolute",
+                "edgeOffsets": 140,
+                "style": {
+                    "position": "absolute",
+                    "left": "0%",
+                    "top": "20.71776611694153%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "a861469d-3ddc-4f4a-a743-e7151886185f",
+            "thunkableVersion": 421,
+            "name": "Switch1"
+        },
         {
             "type": "Image",
             "translatedName": "Image",
@@ -90,7 +179,6 @@
                     "top": "88.6056971514243%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "00aa254e-4b75-4030-8dd4-ca36ac74bc7e",
                 "position": "absolute",
                 "edgeOffsets": 588
@@ -124,7 +212,6 @@
                     "color": "rgba(3, 119, 255, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -191,7 +278,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -269,7 +355,6 @@
                     "top": "19.490254872563717%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "00aa254e-4b75-4030-8dd4-ca36ac74bc7e",
                 "position": "absolute",
                 "edgeOffsets": 74
